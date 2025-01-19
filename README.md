@@ -8,7 +8,7 @@ install axiom
 
 Backend
 npm install express
-npm inatall openai
+npm install openai
 npm install sentiment
 
 openAi
