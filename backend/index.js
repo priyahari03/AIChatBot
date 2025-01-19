@@ -23,7 +23,6 @@ const sentiment = new Sentiment();
     const openai = new OpenAI({
         //replace ur API key here
         apiKey: ''
-
     })
    
     //sentiment analysis on input text
