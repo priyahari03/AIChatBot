@@ -31,7 +31,6 @@ const Chat = () => {
             const errorMessage = { role: 'bot', content: 'Something went wrong. Please try again later.' };
             setMessages((prevMessages) => [...prevMessages, errorMessage]);
         }
-
         // Clear input
         setInput('');
     };
