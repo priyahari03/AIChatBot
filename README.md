@@ -14,3 +14,5 @@ npm install sentiment
 openAi
 generate APIKey from openAI and use in the code
 use env file to add key credentials
+
+<img width="748" alt="app" src="https://github.com/user-attachments/assets/1b8659c0-5aa8-4768-a0e7-f53411901f0d" />
