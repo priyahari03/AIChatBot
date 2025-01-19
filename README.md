@@ -20,9 +20,7 @@ use env file to add key credentials
 
 
 TechStack:
-![image](https://github.com/user-attachments/assets/b2c4c45b-df90-4142-8fee-9468b5ead7c6)
 
-![image](https://github.com/user-attachments/assets/1f8a1fff-cfe2-46f2-aba3-c8001d561a86)
-![image](https://github.com/user-attachments/assets/38d48bc6-7c9c-4141-afab-541213cff2a7)
 
-![image](https://github.com/user-attachments/assets/ae72295a-1eba-4ac0-86f7-107d9fc9c564)
+
+![image](https://github.com/user-attachments/assets/b2c4c45b-df90-4142-8fee-9468b5ead7c6) ![image](https://github.com/user-attachments/assets/1f8a1fff-cfe2-46f2-aba3-c8001d561a86) ![image](https://github.com/user-attachments/assets/38d48bc6-7c9c-4141-afab-541213cff2a7)  ![image](https://github.com/user-attachments/assets/ae72295a-1eba-4ac0-86f7-107d9fc9c564)
